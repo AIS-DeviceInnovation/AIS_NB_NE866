@@ -3,6 +3,7 @@
 The Arduino Library is designed for `DEVIO NB-XBEE I`to connect with your own IoT Platform/ Server. 
 
 This version is recommended for Mega, MKR boards, Zero, Due, 101, etc.
+
 Note: ARDUINO MEGA: RX = 18, TX = 19
 
 ## Function List:
