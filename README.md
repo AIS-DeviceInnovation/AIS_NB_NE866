@@ -36,7 +36,7 @@ Note: ARDUINO MEGA: RX = 18, TX = 19
 ### DEVIO NB-XBEE I
 `DEVIO NB-XBEE I` is a communication board for XBEE form factor compatible pinout. 
 
-For `DEVIO NB-XBEE I` Pinout, please go to "www.ais.co.th/aiap" in the "IoTDevCenter" menu.
+For `DEVIO NB-XBEE I` Pinout, please go to "www.ais.co.th/aiap" in the "IoT Dev Center" menu.
 
 ### Specifications:
   Communication Module: Telit NE866B1-E1
