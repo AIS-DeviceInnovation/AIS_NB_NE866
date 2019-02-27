@@ -1,0 +1,19 @@
+{
+  "name": "AIS_NB_NE866",
+  "frameworks": "Arduino",
+  "keywords": "AIS, NB-IoT, NE866, Telit",
+  "description": "Arduino Library for DEVIO NB-XBEE I",
+  "url": "https://github.com/AIS-DeviceInnovation/AIS_NB_NE866",
+  "authors":
+  {
+    "name": "Advanced Info Service Plc./Device Innovation Team",
+    "maintainer": true
+  },
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/AIS-DeviceInnovation/AIS_NB_NE866.git"
+  }, 
+  "version": "1",
+  "platforms": "*"
+}
