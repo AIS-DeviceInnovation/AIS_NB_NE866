@@ -69,3 +69,7 @@ For `DEVIO NB-XBEE I` Pinout, please go to "www.ais.co.th/aiap" in the "IoT Dev 
 		- Import AIS NB-IoT Library 
 		- Open AIS NB-IoT Example and specify your server IP & Port
 		- Compile & Upload
+
+สนใจสั่งซื้อ DEVIO NB-XBEE I ได้ที่ AIS online store (https://store.ais.co.th/th/devio-nb-xbee-i.html)
+
+สอบถามข้อมูลเพิ่มเติม ติดต่อ AIS IoT Alliance Program (www.ais.co.th/aiap) ที่หน้า Business Enquiry
