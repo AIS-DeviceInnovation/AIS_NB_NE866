@@ -481,7 +481,7 @@ UDPReceive AIS_NB_NE866:: waitResponse(){
 
     int index1 = input.indexOf(F(","));
     if(index1!=-1){
-    	int index0 = input.indexOf(F("SRING: "));
+    	int index0 = input.indexOf(F("STRING: "));
         int index2 = input.indexOf(F(","),index1+1);
         int index3 = input.indexOf(F(","),index2+1);
         int index4 = input.indexOf(F(","),index3+1);
